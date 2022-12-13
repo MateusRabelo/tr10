@@ -3,8 +3,7 @@
 <h1 align="center"> Como baixar? </h1>
 
 <h2>Para baixar o código, você pode ir no próprio github e baixar como um .zip, ou pode optar por fazer um "git clone".<br>
-    - Para fazer isso, é necessario ter instalado na sua máquina o programa git.
-    </h2>
+<p>- Para fazer isso, é necessario ter instalado na sua máquina o programa git.</h2>
 
 <h1 align="center"> Como Instalar o Git? </h1>
 
