@@ -1,9 +1,14 @@
 <h1 align="center"> TRABALHO 10 </h1>
 
+<h2>Olá, sou Mateus Rabelo Frota, do Curso de Ciência da Computação, e esse é o 10° trabalho de Laboratório de Programação<br>
+E aqui, trago organizado e comentado o código do trabalho 4
+
+Também ensinarei cada passo para fazer com que consiga instalar, compilar e executar o código</h2>
+
 <h1 align="center"> Como baixar? </h1>
 
 <h2>Para baixar o código, você pode ir no próprio github e baixar como um .zip, ou pode optar por fazer um "git clone".<br>
-<p>- Para fazer isso, é necessario ter instalado na sua máquina o programa git.</p></h2>
+Para fazer isso, é necessario ter instalado na sua máquina o programa git.</h2>
 
 <h1 align="center"> Como Instalar o Git? </h1>
 
