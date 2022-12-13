@@ -1,7 +1,7 @@
 <h1 align="center"> TRABALHO 10 </h1>
 
-<h2>Olá, sou Mateus Rabelo Frota, do Curso de Ciência da Computação, e esse é o 10° trabalho de Laboratório de Programação<br>
-E aqui, trago organizado e comentado o código do trabalho 4
+<h2>Olá, sou Mateus Rabelo Frota, do Curso de Ciência da Computação, e esse é o 10° trabalho de Laboratório de Programação<br><br>
+E aqui, trago organizado e comentado o código do trabalho 4<br>
 
 Também ensinarei cada passo para fazer com que consiga instalar, compilar e executar o código</h2>
 
